@@ -1,0 +1,12 @@
+# CLion / JetBrains
+.idea/
+cmake-build-*/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+CMakeLists.txt
+
+# Executables
+*.exe
+*.out
