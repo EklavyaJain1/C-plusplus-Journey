@@ -1,0 +1,3 @@
+D:/github/BASIC/input_output/sum of natural numbers/cmake-build-debug/CMakeFiles/sum_of_natural_numbers.dir
+D:/github/BASIC/input_output/sum of natural numbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/github/BASIC/input_output/sum of natural numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
