@@ -1,4 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2025.2.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2025.2.4/bin/ninja/win/x64/ninja.exe" -G Ninja -S "D:\github\BASIC\input_output\sum of natural numbers" -B "D:\github\BASIC\input_output\sum of natural numbers\cmake-build-debug"
--- Configuring done (6.2s)
--- Generating done (0.7s)
--- Build files have been written to: D:/github/BASIC/input_output/sum of natural numbers/cmake-build-debug
